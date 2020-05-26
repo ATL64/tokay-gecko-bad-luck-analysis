@@ -22,6 +22,8 @@ So the question had to be asked:  Is hearing 7 calls from a Tokay Gecko a rare o
 In order to answer this question, I decided to go on a quest of writing down the counts every time I could.
 I built the data set you can find in the csv file.  It contains date/time (I started to record this half way through), the call counts, and whether the gecko was in my house or outside.
 
+Then I proceeded to do a short statistical analysis, and calculate the probability of "7" under different assumptions of the underlying distributions.
+
 # Conclusions
 
 
