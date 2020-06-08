@@ -17,5 +17,5 @@ Then I proceeded to do a short statistical analysis, and calculate the probabili
 
 # Conclusions
 
-We see there is a 22% chance of encountering a gecko call with frequency = 7. We show our subjective veredict in the notebook. Enjoy!
+We see there is a 22% chance of encountering a gecko call with frequency = 7. We show our subjective verdict in the notebook. Enjoy!
 
